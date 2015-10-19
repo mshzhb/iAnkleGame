@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mshzhb/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-674fe9241321efe9a9a8f60d5db07c76d34cfd01.jar" />
+    </item>
+    <item
+        jar="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62">
+        <dex dex="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-f689b6367abccd5391efdd6eea66be3a54a02bbc.jar" />
+    </item>
+    <item
+        jar="/Users/mshzhb/StudioProjects/iankle game/app/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c38a8f26ae7384127ce35a824d1d4e9f42e44182">
+        <dex dex="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/pre-dexed/debug/unity-classes-cb45898787ad6ae2103d80b9b2be9bf26ae4e62a.jar" />
+    </item>
+    <item
+        jar="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/exploded-aar/com.github.citux/datetimepicker/0.1.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="817ea7c569301beb1c81f6ac9c440664b7b92827">
+        <dex dex="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/pre-dexed/debug/classes-c48cf8b7edd6d99f68cbccbface4076027060404.jar" />
+    </item>
+    <item
+        jar="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e8e7468fb682814510ed3b0ff8ab12c4d19b5c7c.jar" />
+    </item>
+    <item
+        jar="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
+        <dex dex="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/pre-dexed/debug/classes-55ca4071884749dc04b8fe2ddc21bd54c4520e14.jar" />
+    </item>
+    <item
+        jar="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/pre-dexed/debug/classes-6f27890081c1d5c6ee60631743766b4a34e77967.jar" />
+    </item>
+    <item
+        jar="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/exploded-aar/com.mbientlab/metawear/1.5.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6a898d0ceecc8c19da88b0bc6cecd156825b714">
+        <dex dex="/Users/mshzhb/StudioProjects/iankle game/app/build/intermediates/pre-dexed/debug/classes-8fbce9fa9deb1b0e16d79987971f1d49b344222a.jar" />
+    </item>
+
+</items>
